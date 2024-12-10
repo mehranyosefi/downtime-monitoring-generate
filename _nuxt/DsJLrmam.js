@@ -1,0 +1,1 @@
+import{_ as o}from"./Dp_ePpjK.js";/* empty css        */import{A as _,o as e,p as n}from"./BW30G4xz.js";import{_ as s}from"./DlAUqK2U.js";const p=_({__name:"test",setup(r){return(a,c)=>{const t=o;return e(),n(t)}}}),d=s(p,[["__scopeId","data-v-6653d7b9"]]);export{d as default};
