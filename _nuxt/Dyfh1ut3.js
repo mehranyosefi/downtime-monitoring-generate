@@ -1,4 +1,4 @@
-import{b as i}from"./XEFP4j3b.js";import{B as l,o,c as n,m as a,k as r,n as s,a as c}from"./BW30G4xz.js";var p=function(d){var t=d.dt;return`
+import{b as i}from"./Fq4f69l4.js";import{B as l,o,c as n,m as a,k as r,n as s,a as c}from"./BXdApHtE.js";var p=function(d){var t=d.dt;return`
 .p-card {
     background: `.concat(t("card.background"),`;
     color: `).concat(t("card.color"),`;
