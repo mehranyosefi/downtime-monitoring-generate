@@ -1,1 +1,0 @@
-function o(i,e,a){const r=document.querySelector(i);let f=!1;r==null||r.addEventListener("scroll",c=>{const n=c.target;if(n.scrollTop+n.clientHeight>=.8*n.scrollHeight){if(e){const l=Object.keys(e);for(let t=0;t<l.length&&!(!e[l[t]]&&(e[l[t]]=!0,e[l[t]]===e[l[Object.keys(e).length-1]]));t++);}f=!0}else f=!1;a(e,f)},!1)}export{o as f};
